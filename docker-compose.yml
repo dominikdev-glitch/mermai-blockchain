@@ -1,0 +1,76 @@
+version: '3.8'
+
+services:
+  # Node 1: Alice (Lead Validator - 5M MRM Stake)
+  node1:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mermai-node1
+    command: ["--port", "6400", "--rpc-port", "7400", "--db", "/data/node1.db", "--genesis", "/mermai/scripts/testnet/mermai_genesis_testnet.json"]
+    ports:
+      - "6400:6400"
+      - "7400:7400"
+    volumes:
+      - node1_data:/data
+    networks:
+      - mermai-net
+
+  # Node 2: Bob (Validator - 3M MRM Stake)
+  node2:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mermai-node2
+    command: ["--port", "6401", "--rpc-port", "7401", "--db", "/data/node2.db", "--genesis", "/mermai/scripts/testnet/mermai_genesis_testnet.json"]
+    ports:
+      - "6401:6401"
+      - "7401:7401"
+    volumes:
+      - node2_data:/data
+    networks:
+      - mermai-net
+    depends_on:
+      - node1
+
+  # Node 3: Carol (Validator - 2M MRM Stake)
+  node3:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mermai-node3
+    command: ["--port", "6402", "--rpc-port", "7402", "--db", "/data/node3.db", "--genesis", "/mermai/scripts/testnet/mermai_genesis_testnet.json"]
+    ports:
+      - "6402:6402"
+      - "7402:7402"
+    volumes:
+      - node3_data:/data
+    networks:
+      - mermai-net
+    depends_on:
+      - node1
+
+  # Web Explorer & Dashboard
+  explorer:
+    image: python:3.11-slim
+    container_name: mermai-explorer
+    working_dir: /app
+    volumes:
+      - ./mermai_explorer:/app/mermai_explorer
+      - ./scripts:/app/scripts
+    command: ["python3", "mermai_explorer/mermai_serve.py", "--port", "8080", "--rpc", "http://node1:7400"]
+    ports:
+      - "8080:8080"
+    networks:
+      - mermai-net
+    depends_on:
+      - node1
+
+volumes:
+  node1_data:
+  node2_data:
+  node3_data:
+
+networks:
+  mermai-net:
+    driver: bridge

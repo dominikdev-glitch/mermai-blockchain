@@ -1,0 +1,32 @@
+{
+  "network_id": 7331,
+  "chain_name": "Mermai Mainnet",
+  "block_interval_seconds": 10,
+  "consensus": "TW-PoS",
+  "allocations": {
+    "mrm_alice_val1": 10000000,
+    "mrm_bob_val2": 5000000,
+    "mrm_carol_val3": 5000000,
+    "mrm_faucet": 100000000
+  },
+  "validators": [
+    {
+      "name": "Alice",
+      "address": "mrm_alice_val1",
+      "stake": 5000000,
+      "public_key": "3059301306072a8648ce3d020106082a8648ce3d030107034200047b231076a0c1585f0091581e5edbffb0f3467736cef305bd9653a68e1476d5bf0811b0cf2656447bc40e2575024a0d3e6126a1881950401fa046061bebe23c35"
+    },
+    {
+      "name": "Bob",
+      "address": "mrm_bob_val2",
+      "stake": 3000000,
+      "public_key": "3059301306072a8648ce3d020106082a8648ce3d03010703420004e331584fae277711423d086a9685822a9da53fc941f572ff76db267d5e9365f746b55feb8191bf041ad08807af31ed83bec2e9cbc3f8f8d6445343614e3db39a"
+    },
+    {
+      "name": "Carol",
+      "address": "mrm_carol_val3",
+      "stake": 2000000,
+      "public_key": "3059301306072a8648ce3d020106082a8648ce3d0301070342000437bde07413dd71c4679b865ea7b0fc0facf449b6769914a435c61b04b939eb9118ff7ca02b994769d90c00ced427c7cfab240b057dfb4997aac6aa9bdf53d33f"
+    }
+  ]
+}

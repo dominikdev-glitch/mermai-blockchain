@@ -1,0 +1,63 @@
+# Build artifacts
+build/
+build-cmake/
+dist/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+cmake_install.cmake
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.vcxproj.user
+
+# Database
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Dependencies
+node_modules/
+vcpkg/
+
+# Test outputs
+test_results/
+coverage/
+
+# Runtime
+*.pid
+*.lock
+.runtime/
+
+# OS
+.DS_Store
+Thumbs.db
+.env
+.env.local
+.env.*.local
+
+# Generated
+*.pb.cc
+*.pb.h
+testnet_data/
+treasury_*.json

@@ -1,0 +1,272 @@
+[
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\core\\mermai_biometric.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\core\\mermai_biometric.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/core/mermai_biometric.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/core/mermai_biometric.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\core\\mermai_blockchain.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\core\\mermai_blockchain.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/core/mermai_blockchain.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/core/mermai_blockchain.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\core\\mermai_light_client.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\core\\mermai_light_client.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/core/mermai_light_client.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/core/mermai_light_client.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\core\\mermai_mempool.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\core\\mermai_mempool.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/core/mermai_mempool.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/core/mermai_mempool.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\core\\mermai_merkle.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\core\\mermai_merkle.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/core/mermai_merkle.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/core/mermai_merkle.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\core\\mermai_multisig.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\core\\mermai_multisig.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/core/mermai_multisig.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/core/mermai_multisig.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\core\\mermai_self_aware.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\core\\mermai_self_aware.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/core/mermai_self_aware.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/core/mermai_self_aware.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\consensus\\mermai_consensus.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\consensus\\mermai_consensus.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/consensus/mermai_consensus.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/consensus/mermai_consensus.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\consensus\\mermai_governance.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\consensus\\mermai_governance.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/consensus/mermai_governance.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/consensus/mermai_governance.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\vm\\merlite_compiler.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\vm\\merlite_compiler.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/vm/merlite_compiler.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/vm/merlite_compiler.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\vm\\mermai_token.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\vm\\mermai_token.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/vm/mermai_token.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/vm/mermai_token.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\vm\\mermai_vm.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\vm\\mermai_vm.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/vm/mermai_vm.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/vm/mermai_vm.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\network\\mermai_network.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\network\\mermai_network.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/network/mermai_network.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/network/mermai_network.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\db\\mermai_db.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\db\\mermai_db.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/db/mermai_db.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/db/mermai_db.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\rpc\\mermai_pubsub.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\rpc\\mermai_pubsub.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/rpc/mermai_pubsub.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/rpc/mermai_pubsub.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_core.dir\\src\\rpc\\mermai_rpc.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\rpc\\mermai_rpc.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/rpc/mermai_rpc.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_core.dir/src/rpc/mermai_rpc.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai-node.dir\\src\\mermai_main.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\mermai_main.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/mermai_main.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai-node.dir/src/mermai_main.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai-cli.dir\\src\\cli\\mermai_wallet.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\src\\cli\\mermai_wallet.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/src/cli/mermai_wallet.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai-cli.dir/src/cli/mermai_wallet.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\merlite_compiler_test.dir\\tests\\merlite_compiler_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\merlite_compiler_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/merlite_compiler_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/merlite_compiler_test.dir/tests/merlite_compiler_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_biometric_test.dir\\tests\\mermai_biometric_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_biometric_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_biometric_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_biometric_test.dir/tests/mermai_biometric_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_block_validation_test.dir\\tests\\mermai_block_validation_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_block_validation_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_block_validation_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_block_validation_test.dir/tests/mermai_block_validation_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_cli_test.dir\\tests\\mermai_cli_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_cli_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_cli_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_cli_test.dir/tests/mermai_cli_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_consensus_test.dir\\tests\\mermai_consensus_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_consensus_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_consensus_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_consensus_test.dir/tests/mermai_consensus_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_database_test.dir\\tests\\mermai_database_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_database_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_database_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_database_test.dir/tests/mermai_database_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_finality_test.dir\\tests\\mermai_finality_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_finality_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_finality_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_finality_test.dir/tests/mermai_finality_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_governance_test.dir\\tests\\mermai_governance_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_governance_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_governance_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_governance_test.dir/tests/mermai_governance_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_http_rpc_test.dir\\tests\\mermai_http_rpc_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_http_rpc_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_http_rpc_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_http_rpc_test.dir/tests/mermai_http_rpc_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_mempool_test.dir\\tests\\mermai_mempool_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_mempool_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_mempool_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_mempool_test.dir/tests/mermai_mempool_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_merkle_test.dir\\tests\\mermai_merkle_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_merkle_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_merkle_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_merkle_test.dir/tests/mermai_merkle_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_multi_node_sync_test.dir\\tests\\mermai_multi_node_sync_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_multi_node_sync_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_multi_node_sync_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_multi_node_sync_test.dir/tests/mermai_multi_node_sync_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_multisig_test.dir\\tests\\mermai_multisig_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_multisig_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_multisig_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_multisig_test.dir/tests/mermai_multisig_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_network_security_test.dir\\tests\\mermai_network_security_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_network_security_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_network_security_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_network_security_test.dir/tests/mermai_network_security_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_p2p_test.dir\\tests\\mermai_p2p_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_p2p_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_p2p_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_p2p_test.dir/tests/mermai_p2p_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_pubsub_test.dir\\tests\\mermai_pubsub_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_pubsub_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_pubsub_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_pubsub_test.dir/tests/mermai_pubsub_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_quorum_test.dir\\tests\\mermai_quorum_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_quorum_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_quorum_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_quorum_test.dir/tests/mermai_quorum_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_restart_test.dir\\tests\\mermai_restart_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_restart_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_restart_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_restart_test.dir/tests/mermai_restart_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_rewards_test.dir\\tests\\mermai_rewards_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_rewards_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_rewards_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_rewards_test.dir/tests/mermai_rewards_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_rpc_test.dir\\tests\\mermai_rpc_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_rpc_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_rpc_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_rpc_test.dir/tests/mermai_rpc_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_self_aware_test.dir\\tests\\mermai_self_aware_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_self_aware_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_self_aware_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_self_aware_test.dir/tests/mermai_self_aware_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_signature_test.dir\\tests\\mermai_signature_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_signature_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_signature_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_signature_test.dir/tests/mermai_signature_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_slashing_test.dir\\tests\\mermai_slashing_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_slashing_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_slashing_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_slashing_test.dir/tests/mermai_slashing_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_snapshot_test.dir\\tests\\mermai_snapshot_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_snapshot_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_snapshot_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_snapshot_test.dir/tests/mermai_snapshot_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_spv_test.dir\\tests\\mermai_spv_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_spv_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_spv_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_spv_test.dir/tests/mermai_spv_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_token_test.dir\\tests\\mermai_token_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_token_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_token_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_token_test.dir/tests/mermai_token_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/hp/Documents/mermai-blockchain/build-cmake",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hp/Documents/mermai-blockchain/include -O3 -DNDEBUG -std=c++20 -Wall -Wextra -Wpedantic -UNDEBUG -fstack-protector-strong -o CMakeFiles\\mermai_vm_test.dir\\tests\\mermai_vm_test.cpp.obj -c C:\\Users\\hp\\Documents\\mermai-blockchain\\tests\\mermai_vm_test.cpp",
+  "file": "C:/Users/hp/Documents/mermai-blockchain/tests/mermai_vm_test.cpp",
+  "output": "C:/Users/hp/Documents/mermai-blockchain/build-cmake/CMakeFiles/mermai_vm_test.dir/tests/mermai_vm_test.cpp.obj"
+}
+]
